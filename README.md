@@ -24,7 +24,7 @@ Sources → Azure Data Factory → Data Lake (Bronze)
 
 ---
 
-## ⚙️ Étapes principales
+## Étapes principales
 
 ### 1 Source : **SQL Server**
 - Données transactionnelles et opérationnelles.
