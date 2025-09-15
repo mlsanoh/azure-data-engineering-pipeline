@@ -7,7 +7,7 @@ L’objectif est de créer un pipeline complet permettant de :
 - Ingest les données brutes depuis **SQL Server** avec **Azure Data Factory**,
 - Stocker en **Data Lake Storage Gen2** (zones Bronze, Silver, Gold),
 - Transformer les données avec **Azure Databricks**,
-- Exposer les données via **Azure Synapse Analytics** (vues et procédures stockées),
+- Exposer les données via **Azure Synapse Analytics** (vues,procédures stockées et orchestration d'un pipeline pour les procédures stockées),
 - Sécuriser les secrets (connexions, credentials) avec **Azure Key Vault**.
 
 ---
